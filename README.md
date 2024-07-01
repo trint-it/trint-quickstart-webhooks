@@ -2,9 +2,9 @@
 
 #### Introduction
 
-• Listen to Trint Webhook Events
-• Extend the Event data with an API (In example: The Trint API)
-• Store the results in a data store of your choice.
+- Listen to Trint Webhook Events
+- Extend the Event data with an API (In example: The Trint API)
+- Store the results in a data store of your choice.
 
 <br />
 
