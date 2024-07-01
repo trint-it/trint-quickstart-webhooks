@@ -10,7 +10,7 @@
 
 #### Development
 
-To run the service locally you will need to start it allow inbound traffic from Trint to reach your service. Once this is setup, you will need to add a url to you Trint developer console. 
+To run the service locally you will need to run `yarn start:dev` and you will need to allow inbound traffic from Trint to reach your service. Once this is setup, you will need to add a url to you Trint developer console. 
 https://app.trint.com/account/api
 
 <br />
