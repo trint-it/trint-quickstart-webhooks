@@ -18,6 +18,7 @@ export const configuration = builder({
     switch (webhookEvent.eventType) {
       case 'TRANSCRIPT_COMPLETE':
       case 'TRANSCRIPT_VERIFIED':
+      case 'TRANSCRIPT_NEW_VERSION':
         const text = await trintApi.fetchTranscriptText(
           transcriptId,
         )
